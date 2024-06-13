@@ -1,4 +1,5 @@
-//=========Day1 task =======
+//=      ========Day1 task ==========
+// ======== Created By Nitoo Kumari ========
 //Task-1
 
 /*Write a typescript program that print "Hello, Typescript!" to the console */

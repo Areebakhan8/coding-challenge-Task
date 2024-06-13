@@ -1,4 +1,6 @@
-//======= Day2 Task =======
+//    =========== Day2 Task ===========
+// ========= Created By Samiya Ayub =========
+
 import chalk from "chalk"
 
 //task-1

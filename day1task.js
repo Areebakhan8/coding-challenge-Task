@@ -1,4 +1,5 @@
 //=========Day1 task =======
+
 //Task-1
 /*Write a typescript program that print "Hello, Typescript!" to the console */
 import chalk from "chalk";
